@@ -1,2 +1,2 @@
-# MedChatBot
- 
+# MedBot
+MedBot (Asan Innovators)
